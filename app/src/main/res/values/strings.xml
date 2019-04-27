@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stratos</string>
+	 <string name="hello_world">Hello world!</string>
+    <string name="выберите">выберите</string>
+
+    <string-array name="TerrainChangeArr">
+        <item>Grass</item>
+        <item>Water</item>
+        <item>Stone</item>
+        <item>Sand</item>
+    </string-array>
+	
+</resources>
